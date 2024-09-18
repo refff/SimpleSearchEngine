@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+  - name: src/search/FileManager.java
+    visible: true
+    learner_created: true
+  - name: src/search/SearchEngine.java
+    visible: true
+    learner_created: true
+  - name: src/search/names.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5500#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Sep 2024 08:47:27 UTC"
+record: 5
